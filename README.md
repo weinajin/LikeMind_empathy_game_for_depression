@@ -10,6 +10,4 @@ This is a simple 2D video game. Code is written in C# with Unity game engine.
 
 ## Publication
 
-Serious game for serious disease: Diminishing stigma of depression via game experience
-W Jin, D Gromala, X Tong
-Games Entertainment Media Conference (GEM), 2015 IEEE, 1-2
+Serious game for serious disease: Diminishing stigma of depression via game experience. W Jin, D Gromala, X Tong. Games Entertainment Media Conference (GEM), 2015 IEEE, 1-2.
